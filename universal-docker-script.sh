@@ -77,7 +77,8 @@ if [[ $result == "y" ]]; then
 			nginx_proxy_manager
 		fi
 	else 
-		exit		
+		exit
+				
 	fi
 else 
 	exit
